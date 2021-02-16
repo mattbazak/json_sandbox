@@ -1,0 +1,20 @@
+[
+  {
+  "id": 1,
+  "name": "John Doe",
+  "company": "123 Designs",
+  "phone": "555-555-5555"
+  },
+  {
+  "id": 2,
+  "name": "Fuby Fandango",
+  "company": "Serious Beats",
+  "phone": "555-555-5555"
+  },
+  {
+  "id": 3,
+  "name": "Ricky Martin",
+  "company": "Black Bananas",
+  "phone": "555-555-5555"
+  }
+]
